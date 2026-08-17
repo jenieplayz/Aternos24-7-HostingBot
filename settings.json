@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ChaosBoundSmp.aternos.me",
-    "port": 51709,
+    "ip": "PearlEleven.aternos.me",
+    "port": 33319,
     "version": "1.21.11",
     "try-creative": false
   },
