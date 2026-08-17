@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "PearlEleven.aternos.me",
+    "port": 33319,
     "version": "",
     "try-creative": false
   },
